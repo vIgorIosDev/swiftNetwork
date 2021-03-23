@@ -68,5 +68,69 @@
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6860D209-069A-4D88-8063-36BB47679DCA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vk-client/Model/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getRequest(parameters:vkMethod:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6860D209-069A-4D88-8063-36BB47679DCA - 1c8d0e8aac33f235"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vk_client.NetworkService.getToken() -&gt; Alamofire.DataRequest"
+                  moduleName = "vk-client"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i.vasilyev/Documents/vk-client/lesson1/vk-client/Model/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "752">
+               </Location>
+               <Location
+                  uuid = "6860D209-069A-4D88-8063-36BB47679DCA - 471466ba057097e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in vk_client.NetworkService.getToken() -&gt; Alamofire.DataRequest"
+                  moduleName = "vk-client"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i.vasilyev/Documents/vk-client/lesson1/vk-client/Model/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "70">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A43C020-7EA6-4D26-A15F-1B0206C11351"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vk-client/VKLoginController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "webView(_:decidePolicyFor:decisionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

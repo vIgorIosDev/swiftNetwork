@@ -2,7 +2,7 @@
 //  Session.swift
 //  vk-client
 //
-//  Created by i.vasilyev on 23.03.2021.
+//  Created by i.vasilyev on 22.03.2021.
 //
 
 import Foundation
