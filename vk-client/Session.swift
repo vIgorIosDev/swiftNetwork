@@ -7,10 +7,11 @@
 
 import Foundation
 
+//lesson 1
 class Session {
     var token: String = ""
-    var userId: String = "80871506"
-    var clientId: String = "7798070"
+    var userId: String = ""
+    var clientId: String = ""
     private init(){}
     
     static let instanse = Session()
